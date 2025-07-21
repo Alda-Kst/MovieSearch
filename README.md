@@ -13,7 +13,7 @@ A simple React web application to search for movies using the [OMDb API](http://
 
 ## 🖼️ Demo
 
-
+Here's a live demo: https://alda-kst.github.io/MovieSearch/
 
 ## 🛠️ Tech Stack
 
